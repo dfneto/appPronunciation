@@ -1,0 +1,15 @@
+* Plano A
+Usar o gTTS
+
+* Plano B
+Usar a api do google
+
+* Plano C
+Usar a api do forvo para pegar a pronúncia de algumas palavras
+
+
+Demais passos:
+2- pegar as subtitles de uma série, ou de um livro em pdf, e fazer um BoW
+3- ordenar pelas palavras mais frequente
+4- talvez possa pegar a pronúncia do speaker das entidades
+5- reproduzir a pronúncia dessas palavras
