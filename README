@@ -11,5 +11,7 @@ Usar a api do forvo para pegar a pronúncia de algumas palavras
 Demais passos:
 2- pegar as subtitles de uma série, ou de um livro em pdf, e fazer um BoW
 3- ordenar pelas palavras mais frequente
-4- talvez possa pegar a pronúncia do speaker das entidades
-5- reproduzir a pronúncia dessas palavras
+4- reproduzir a pronúncia dessas palavras
+5- talvez possa pegar a pronúncia dos personagens (de quem tá falando no áudio) usando meu projeto anterior.
+Pensei em pegar 4 áudios (com o timestamp original, com um timestamp maior e outros dois mais pra frente ou mais
+pra trás). E aí comparar o áugio do gtts com eles e pegar aquele mais próximo do gtts.
